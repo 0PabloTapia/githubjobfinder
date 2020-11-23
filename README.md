@@ -1,1 +1,1 @@
-mygithub-jobs.netlify.app
+https://mygithub-jobs.netlify.app
